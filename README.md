@@ -41,7 +41,7 @@ For questions or inquiries, feel free to reach out:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([https://github.com/LannosiOleb434/LannosiOleb434/blob/main/LICENCE]) file for details.
 
 ---
 
